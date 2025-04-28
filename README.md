@@ -6,13 +6,12 @@
 <p>
     <a href="https://f-first.shop/en/">
         <div>
-            <img src="https://ibb.co/ycbytJpp" width="100%" alt="APILayer Logo" />
+            <Link src="https://ibb.co/ycbytJpp" width="100%" alt="First Shop Logo" />
         </div>
     </a>
   </p>
 
-[F-First Shop](https://f-first.shop/en/)
-[F-First](https://f-first.shop/en/) is the fastest way to integrate mobile proxies into any product. We offer a variety of mobile proxies across different geos, ensuring flexibility and speed for your projects.
+[F-First Shop](https://f-first.shop/en/) is the fastest way to integrate mobile proxies into any product. We offer a variety of mobile proxies across different geos, ensuring flexibility and speed for your projects.
 
 
 
