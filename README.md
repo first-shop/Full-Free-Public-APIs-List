@@ -1533,6 +1533,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Twitch](https://dev.twitch.tv/docs) | Game Streaming API | `OAuth` | Yes | Unknown |
 | [Twitter](https://developer.twitter.com/en/docs) | Read and write Twitter data | `OAuth` | Yes | No |
 | [vk](https://vk.com/dev/sites) | Read and write vk data | `OAuth` | Yes | Unknown |
+| [Xquik](https://docs.xquik.com/api-reference/overview) | X (Twitter) data workflows for search, extraction, monitors, giveaways, posting, and webhooks | `apiKey` | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 <br >
@@ -1861,4 +1862,3 @@ Visit our website to explore more and get your free trial of mobile proxies! [F-
 
 ## License
 [MIT](LICENSE) (c) 2025 Full-Free-Public-APIs-List
-
